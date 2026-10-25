@@ -17,3 +17,5 @@ It updates itself from this repo whenever the launcher opens.
 - `Data/ui/themes/rose/game/summon_gauge.html`
 
 Turning it off in the launcher puts the game's own files back.
+
+With **Options Extras** on, this can be switched on and off in game under **Options > UI > Add-ons**.
