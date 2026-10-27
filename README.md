@@ -4,7 +4,7 @@ Summon HP, range and a low-HP warning on the summon gauge.
 
 The summon gauge shows each summon's HP, "Out of range", a warning pulse at low HP and how many summons are out. Switch: Options > UI > Add-ons.
 
-An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's **default** UI.
+An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's default UI and the Steampunk UI theme. Without the launcher, copy the `Data` folder from `files` into your ROSE Online folder.
 
 ## Install
 1. Download this repo (Code > Download ZIP) and open it.
@@ -22,7 +22,8 @@ add-on is installed: each add-on puts a small marker file in
 In **Options > UI > Add-ons** each installed add-on adds its own line, one
 under the other, in the order they are listed there.
 
-The [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme already has this built in, so it isn't needed with Steampunk (if both are on, Steampunk's files win).
+## Default UI or Steampunk
+Each window it changes holds both looks: the game's own and the [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme's. When the window opens it checks whether Steampunk is installed (`styles/steampunk.css`) and uses that look, so it works with either one, with or without the launcher. With Steampunk, the Steampunk theme's own features stay on too.
 
 The switches are saved in `sp_addons.txt` in the ROSE Online folder. The Ice UI
 theme uses the same file; both keep each other's settings.
@@ -30,6 +31,8 @@ theme uses the same file; both keep each other's settings.
 ## Files it changes
 - `Data/ui/themes/rose/game/options_bgfx.html`
 - `Data/ui/themes/rose/game/summon_gauge.html`
+- `Data/ui/themes/rose/styles/sp_addons_steampunk.css` (Steampunk look, shared by the add-ons)
+- `Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css` (Steampunk look, shared by the add-ons)
 - `Data/ui/sp_addons/summon_extras.txt` (marker)
 
 Turning it off in the launcher puts the game's own files back.

@@ -1,6 +1,8 @@
 ; Update list for Summon Gauge Plus. Upload this next to mod.ini and the files folder.
-version=1.6
-0c102254b7e0fd835edbf517e864e3c8b661f12b|mod.ini
+version=1.7
+1ba6c5429ed04002dcfd9f56f813d529ac809b9a|mod.ini
 7ee3d5cd45e8981b15f39335cb69e1530572ab6d|files/Data/ui/sp_addons/summon_extras.txt
-6fedb34cabee5e5dda0c2652adf7056e8d331d6d|files/Data/ui/themes/rose/game/options_bgfx.html
-d560f6d74baf4f74653489f33a91826a352a7c6c|files/Data/ui/themes/rose/game/summon_gauge.html
+59c360ee044c1671671e8a5ff016e57c61a38a94|files/Data/ui/themes/rose/game/options_bgfx.html
+dc5f188477d1546b4f6961384e1c48013d9d3aa2|files/Data/ui/themes/rose/game/summon_gauge.html
+c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
+80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
