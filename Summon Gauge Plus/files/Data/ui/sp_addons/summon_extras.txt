@@ -1,0 +1,2 @@
+summon_extras
+; Marks the Summon Gauge Plus add-on as installed. Removed again with the add-on.
