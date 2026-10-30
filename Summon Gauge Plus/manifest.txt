@@ -1,11 +1,11 @@
 ; Update list for Summon Gauge Plus. Upload this next to mod.ini and the files folder.
-version=1.15
-bd6e6e6ed4934933e7043bf56a9d084b7388921e|mod.ini
+version=1.16
+5396a3a730fdb5492814a925c12fe7c00bac332d|mod.ini
 7ee3d5cd45e8981b15f39335cb69e1530572ab6d|files/Data/ui/sp_addons/summon_extras.txt
 f73e3ff2449c21cd26b382a0d965ad68ce2c7387|files/Data/ui/themes/rose/game/menu.html
 4afc0dd827e57b69b5a89fb34676c6c7ec0f575a|files/Data/ui/themes/rose/game/options_bgfx.html
-ed2fbfb375ff419cb5031dcd9a8dbbf668f25caa|files/Data/ui/themes/rose/game/sp_addons_window.html
+df14c61c9712375fdda896285ee26c97d7c1ebd0|files/Data/ui/themes/rose/game/sp_addons_window.html
 107878e48386d7fbc9eddee0354179d6dcfcf050|files/Data/ui/themes/rose/game/summon_gauge.html
-105de6beaf0577b9a401f1efb47ffe1dedb522e2|files/Data/ui/themes/rose/imgs/sp_addons_menu.dds
+b7a6f192c058d23543410947e501b6cbf3e0b369|files/Data/ui/themes/rose/imgs/sp_addons_menu.dds
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 d91eeca9018f74fcc0129e8769899178111feb8f|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
